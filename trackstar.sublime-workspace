@@ -51,14 +51,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 706,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -112,6 +104,44 @@
 	},
 	"file_history":
 	[
+		"/opt/lampp/htdocs/trackstar/demo/.gitignore",
+		"/opt/lampp/htdocs/trackstar/demo/protected/config/test.php",
+		"/opt/lampp/htdocs/trackstar/demo/protected/vendor/autoload.php",
+		"/opt/lampp/htdocs/trackstar/demo/index-test.php",
+		"/opt/lampp/htdocs/trackstar/demo/protected/config/main.php",
+		"/opt/lampp/htdocs/trackstar/framework/yiic",
+		"/opt/lampp/htdocs/trackstar/demo/protected/tests/WebTestCase.php",
+		"/opt/lampp/htdocs/trackstar/framework/test/CWebTestCase.php",
+		"/opt/lampp/htdocs/trackstar/demo/protected/tests/bootstrap.php",
+		"/opt/lampp/htdocs/trackstar/composer.json",
+		"/opt/lampp/htdocs/trackstar/tests/bootstrap.php",
+		"/opt/lampp/htdocs/trackstar/build/build",
+		"/opt/lampp/htdocs/trackstar/demo/protected/composer.json",
+		"/opt/lampp/htdocs/trackstar/framework/web/CWebApplication.php",
+		"/opt/lampp/htdocs/trackstar/framework/web/widgets/CClipWidget.php",
+		"/opt/lampp/htdocs/trackstar/demo/protected/tests/phpunit.xml",
+		"/opt/lampp/htdocs/trackstar/framework/YiiBase.php",
+		"/opt/lampp/htdocs/trackstar/tests/TestApplication.php",
+		"/opt/lampp/htdocs/trackstar/framework/i18n/data/ti_er.php",
+		"/opt/lampp/htdocs/trackstar/trackstar.sublime-project",
+		"/opt/lampp/htdocs/trackstar/demo/css/main.css",
+		"/opt/lampp/htdocs/trackstar/framework/gii/CCodeModel.php",
+		"/opt/lampp/htdocs/trackstar/framework/i18n/data/en_mh.php",
+		"/opt/lampp/htdocs/trackstar/framework/i18n/data/de.php",
+		"/opt/lampp/htdocs/trackstar/docs/guide/database.ar.txt",
+		"/opt/lampp/htdocs/trackstar/framework/test/CDbTestCase.php",
+		"/opt/lampp/htdocs/trackstar/demo/css/screen.css",
+		"/opt/lampp/htdocs/trackstar/framework/i18n/data/sid_et.php",
+		"/opt/lampp/htdocs/trackstar/framework/zii/widgets/CBaseListView.php",
+		"/opt/lampp/htdocs/trackstar/framework/zii/widgets/jui/CJuiSelectable.php",
+		"/opt/lampp/htdocs/trackstar/framework/vendors/htmlpurifier/standalone/HTMLPurifier/EntityLookup/entities.ser",
+		"/opt/lampp/htdocs/trackstar/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.DirectLexLineNumberSyncInterval.txt",
+		"/opt/lampp/htdocs/trackstar/tests/phpunit.xml",
+		"/opt/lampp/htdocs/trackstar/docs/guide/test.fixture.txt",
+		"/opt/lampp/htdocs/trackstar/framework/i18n/data/wal_et.php",
+		"/opt/lampp/htdocs/trackstar/framework/i18n/data/wae.php",
+		"/opt/lampp/htdocs/trackstar/build/tasks/YiiInitTask.php",
+		"/opt/lampp/htdocs/trackstar/.gitignore",
 		"/opt/lampp/htdocs/trackstar/framework/cli/views/webapp/assets/git-gitignore",
 		"/opt/lampp/htdocs/trackstar/framework/i18n/data/ga_ie.php",
 		"/opt/lampp/htdocs/trackstar/build/generate_accessors_phpdoc.php",
@@ -201,55 +231,18 @@
 		"/opt/lampp/htdocs/riand/.sass-cache/1427c34f731aeba7b40a4acf3cb33374e401c295/web.scssc",
 		"/opt/lampp/htdocs/riand/framework/cli/commands/WebAppCommand.php",
 		"/opt/lampp/htdocs/riand/themes/backend/views/site/error.php",
-		"/opt/lampp/htdocs/riand/framework/web/CTheme.php",
-		"/opt/lampp/htdocs/riand/assets/7d3e68ac/jui/css/base/jquery.ui.theme.css",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/help.php",
-		"/opt/lampp/htdocs/riand/framework/i18n/data/th.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/pagination.php",
-		"/opt/lampp/htdocs/riand/protected/controllers/PostsController.php",
-		"/opt/lampp/htdocs/riand/protected/views/posts/edit.php",
-		"/opt/lampp/htdocs/riand/framework/i18n/data/en_dsrt.php",
-		"/opt/lampp/htdocs/riand/protected/views/layouts/pagination.php",
-		"/opt/lampp/htdocs/riand/framework/i18n/data/pa_guru.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/main.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/site/login.php",
-		"/opt/lampp/htdocs/riand/sass/app.scss",
-		"/opt/lampp/htdocs/riand/protected/views/posts/create.php",
-		"/opt/lampp/htdocs/riand/protected/views/posts/view.php",
-		"/opt/lampp/htdocs/riand/protected/components/BackEndController.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/_pagination-order.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/options.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/email.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/site/dashboard.php",
-		"/opt/lampp/htdocs/riand/assets/7d3e68ac/jquery.treeview.edit.js",
-		"/opt/lampp/htdocs/riand/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.MaintainLineNumbers.txt",
-		"/opt/lampp/htdocs/riand/assets/7d3e68ac/jui/css/base/jquery.ui.menu.css",
-		"/opt/lampp/htdocs/riand/css/app.css",
-		"/opt/lampp/htdocs/riand/framework/i18n/data/pa_arab_pk.php",
-		"/opt/lampp/htdocs/riand/framework/gii/views/default/login.php",
-		"/opt/lampp/htdocs/riand/framework/gii/models/LoginForm.php",
-		"/opt/lampp/htdocs/riand/protected/views/site/login.php",
-		"/opt/lampp/htdocs/riand/framework/views/log.php",
-		"/opt/lampp/htdocs/riand/framework/i18n/data/sid_et.php",
-		"/opt/lampp/htdocs/riand/framework/i18n/data/pa_arab.php",
-		"/opt/lampp/htdocs/riand/assets/7d3e68ac/jui/css/base/jquery-ui.css",
-		"/opt/lampp/htdocs/riand/assets/7d3e68ac/jui/css/base/jquery.ui.core.css",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/message.php",
-		"/opt/lampp/htdocs/riand/themes/backend/views/layouts/breadcrumbs.php",
-		"/opt/lampp/htdocs/riand/protected/views/layouts/submenu.php",
-		"/opt/lampp/htdocs/riand/protected/views/layouts/breadcrumbs.php",
-		"/opt/lampp/htdocs/riand/framework/i18n/data/br.php",
-		"/opt/lampp/htdocs/riand/framework/cli/views/webapp/protected/tests/functional/SiteTest.php"
+		"/opt/lampp/htdocs/riand/framework/web/CTheme.php"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -257,6 +250,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"SeleniumTestCase",
 			"function",
 			"top",
 			"ORO",
@@ -325,42 +319,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 706,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								706,
-								706
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"function_name_status_row": 66,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 810.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -414,6 +374,42 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"boot",
+				"demo/protected/tests/bootstrap.php"
+			],
+			[
+				"cwebtestcase",
+				"framework/test/CWebTestCase.php"
+			],
+			[
+				"test.php",
+				"demo/protected/config/test.php"
+			],
+			[
+				"demomain.php",
+				"demo/protected/config/main.php"
+			],
+			[
+				"yiibase",
+				"framework/YiiBase.php"
+			],
+			[
+				"testcase",
+				"framework/test/CWebTestCase.php"
+			],
+			[
+				"testxml",
+				"demo/protected/tests/phpunit.xml"
+			],
+			[
+				"webtest",
+				"demo/protected/tests/WebTestCase.php"
+			],
+			[
+				"yiic",
+				"framework/yiic"
+			],
 			[
 				"gitignore",
 				".gitignore"
